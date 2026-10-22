@@ -1,7 +1,13 @@
 Refleksi Pembelajaran PBP Pertemuan 1
 
-Menurut saya, platform yang paling menarik untuk dipelajari adalah Web. Saya tertarik mempelajari platform Web karena aplikasi dapat diakses melalui browser tanpa harus memasang aplikasi khusus di setiap perangkat. Selain itu, saya ingin memahami bagaimana HTML, CSS, dan JavaScript digunakan untuk membangun sebuah website yang interaktif dan bermanfaat bagi pengguna.
+Menurut saya, platform yang paling menarik untuk dipelajari adalah Web. 
+Saya tertarik mempelajari platform Web karena aplikasi dapat diakses melalui browser tanpa harus memasang aplikasi khusus di setiap perangkat. 
+Selain itu, saya ingin memahami bagaimana HTML, CSS, dan JavaScript digunakan untuk membangun website yang interaktif dan bermanfaat bagi pengguna.
 
-Tantangan terbesar saat menyiapkan environment adalah memastikan setiap tools terpasang dan dapat dijalankan dengan benar. Saya mengalami kendala saat memeriksa Node.js dan NPM melalui Command Prompt. Node.js berhasil menampilkan nomor versi, tetapi perintah NPM pada awalnya tidak dapat dikenali. Saya kemudian mencoba memeriksa lokasi file NPM dan menjalankan perintah "npm.cmd --version" hingga berhasil menampilkan nomor versi.
+Tantangan terbesar saat menyiapkan environment adalah memastikan setiap tools terpasang dan dapat dijalankan dengan benar. 
+Saya mengalami kendala saat memeriksa Node.js dan NPM melalui Command Prompt. Node.js berhasil menampilkan nomor versi, tetapi perintah NPM pada awalnya tidak dapat dikenali. 
+Saya kemudian memeriksa lokasi file NPM dan mencoba menjalankan perintah "npm.cmd --version" hingga berhasil menampilkan nomor versi.
 
-Untuk mengatasi tantangan tersebut, saya berencana mempelajari kembali fungsi setiap tools, mengikuti dokumentasi resmi, serta memeriksa pesan error dengan teliti ketika terjadi masalah. Saya juga akan berlatih menggunakan Git dan GitHub untuk menyimpan serta mengelola perubahan kode. Dengan latihan secara bertahap, saya berharap dapat lebih memahami lingkungan pengembangan dan menyelesaikan tugas pemrograman berikutnya secara mandiri.
+Untuk mengatasi tantangan tersebut, saya berencana mempelajari kembali fungsi setiap tools, mengikuti dokumentasi resmi, serta memeriksa pesan error dengan teliti ketika terjadi masalah. 
+Saya juga akan berlatih menggunakan Git dan GitHub untuk menyimpan serta mengelola perubahan kode. 
+Dengan latihan secara bertahap, saya berharap dapat lebih memahami lingkungan pengembangan dan menyelesaikan tugas pemrograman berikutnya secara mandiri.
