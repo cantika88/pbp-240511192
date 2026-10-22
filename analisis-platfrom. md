@@ -1,0 +1,41 @@
+Analisis Komparatif Platform
+
+1. Pendahuluan
+
+Platform perangkat lunak merupakan lingkungan yang digunakan untuk menjalankan aplikasi. Tiga platform yang umum digunakan adalah Web, Desktop, dan Mobile. Ketiganya memiliki perbedaan dalam bahasa pemrograman, arsitektur, distribusi, keunggulan, dan keterbatasan.
+
+2. Perbandingan Platform
+
+Aspek| Web| Desktop| Mobile
+Bahasa utama| HTML, CSS, JavaScript, dan TypeScript| C#, Java, C++, dan Python| Kotlin, Java, Swift, dan Dart
+Arsitektur| Umumnya menggunakan arsitektur client-server dan diakses melalui browser| Aplikasi berjalan pada sistem operasi komputer, baik secara lokal maupun dengan layanan server| Aplikasi berjalan pada sistem operasi perangkat mobile dan dapat berkomunikasi dengan server
+Cara distribusi| Dipublikasikan melalui server dan diakses menggunakan URL| Didistribusikan melalui installer, situs resmi, atau toko aplikasi| Didistribusikan melalui Google Play Store, Apple App Store, atau metode distribusi lain
+Keunggulan| Mudah diakses melalui browser, pembaruan dapat dilakukan di server, dan dapat digunakan dari berbagai perangkat| Dapat terintegrasi dengan sistem operasi dan memanfaatkan sumber daya komputer| Praktis digunakan di mana saja serta dapat memanfaatkan kamera, GPS, dan sensor perangkat
+Keterbatasan| Fitur tertentu bergantung pada browser, koneksi, dan izin akses perangkat| Instalasi, kebutuhan sumber daya, dan kompatibilitas sistem operasi perlu diperhatikan| Memiliki keterbatasan baterai, ukuran layar, sumber daya, dan variasi perangkat
+Contoh aplikasi| Gmail versi web, Google Docs| Microsoft Word versi desktop, Visual Studio Code| WhatsApp, Google Maps
+
+3. Analisis
+
+Platform Web sesuai untuk aplikasi yang perlu diakses melalui browser tanpa mengharuskan pengguna memasang aplikasi desktop secara khusus. Teknologi Web seperti HTML, CSS, dan JavaScript digunakan untuk membangun struktur, tampilan, dan interaktivitas aplikasi Web [1].
+
+Platform Desktop cocok untuk aplikasi yang memerlukan integrasi dengan sistem operasi komputer. Pengembang dapat menggunakan berbagai kerangka kerja dan API untuk membangun, mengemas, serta mendistribusikan aplikasi desktop [2].
+
+Platform Mobile dirancang untuk perangkat seperti smartphone dan tablet. Aplikasi Mobile dapat memanfaatkan fitur perangkat keras, misalnya kamera dan sensor lokasi. Pengembangan Android juga memiliki komponen aplikasi dan mekanisme pengelolaan sumber daya yang disesuaikan dengan karakteristik perangkat [3].
+
+4. Kesimpulan
+
+Web, Desktop, dan Mobile memiliki karakteristik serta kebutuhan pengembangan yang berbeda. Web unggul dalam kemudahan akses, Desktop dalam integrasi dengan komputer, sedangkan Mobile dalam portabilitas dan pemanfaatan fitur perangkat. Oleh karena itu, pemilihan platform harus mempertimbangkan kebutuhan pengguna, fitur yang dikembangkan, perangkat sasaran, serta sumber daya yang tersedia.
+
+5. Referensi
+
+[1] MDN Web Docs. Web technology for developers.
+https://developer.mozilla.org/en-US/docs/Web
+
+[2] Microsoft Learn. Windows app development documentation.
+https://learn.microsoft.com/en-us/windows/apps/desktop/
+
+[3] Android Developers. Application fundamentals.
+https://developer.android.com/guide/components/fundamentals
+
+[4] Apple Developer Documentation. Tools and distribution.
+https://developer.apple.com/documentation/TechnologyOverviews/tools-and-distribution
